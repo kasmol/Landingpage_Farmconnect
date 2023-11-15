@@ -171,7 +171,7 @@ const Navbar = () => {
           className="p-4 hover:bg-green-200  cursor-pointer"
           onClick={handleMenuClick}
         >
-           Our Services
+           Our Services.
         </Link>
         <Link
           to="demo"
